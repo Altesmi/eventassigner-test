@@ -1,4 +1,4 @@
-const ea = require('../eventassigner-js/lib/eventAssignment')
+const ea = require('eventassigner-js')
 const allEvents = require('./games2018')
 const allUsers = require('./users2018')
 const getGroupsAndEvents = require('./getGroupsAndEventsFromOneGameTime')
