@@ -17,7 +17,7 @@
   "author": "Olli-Pekka Tikkanen",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "eventassigner-js": "^0.1.6"
   }
 }
